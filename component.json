@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/huya-fed/layui_form2.git",
+    "version": "v1.0.0",
+    "name": "layui_form2",
+    "main": "layui_form2.js",
+    "dependencies": [
+        "huya-fed/layer"
+    ]
+}
